@@ -143,10 +143,10 @@ DRC提供了对账工具，用于比对两端数据是否一致，请查看文�
 
 # 开发团队
 DRC项目由唯品会基础架构部—数据中间件组开发和维护。开发成员如下：
-- [范力彪](https://github.com/libiaofan)
 - [陈非](https://github.com/flike)
 - [赵百忠](https://github.com/firnsan)
 - [汤锦平](https://github.com/tom-tangjp)
+- [范力彪](https://github.com/libiaofan)
 
 # License
 DRC项目遵循Apache 2.0 license。
